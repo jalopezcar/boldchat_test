@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Foo/Pods-Foo-frameworks.sh
+${PODS_ROOT}/Bold360AI/Bold360AI.framework
+${PODS_ROOT}/BoldAIAccessibility/BoldAIAccessibility.framework
+${PODS_ROOT}/BoldAIEngine/BoldAIEngine.framework
+${PODS_ROOT}/BoldCore/BoldCore.framework
+${PODS_ROOT}/BoldEngine/BoldEngine.framework
