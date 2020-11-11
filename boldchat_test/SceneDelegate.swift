@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Foo
+//  boldchat_test
 //
 //  Created by Juan Antonio Lopez Carreño on 11/10/20.
 //  Copyright © 2020 Juan Antonio Lopez Carreño. All rights reserved.

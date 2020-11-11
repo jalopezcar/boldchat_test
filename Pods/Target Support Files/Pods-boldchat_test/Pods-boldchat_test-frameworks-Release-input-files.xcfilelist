@@ -1,4 +1,4 @@
-${PODS_ROOT}/Target Support Files/Pods-Foo/Pods-Foo-frameworks.sh
+${PODS_ROOT}/Target Support Files/Pods-boldchat_test/Pods-boldchat_test-frameworks.sh
 ${PODS_ROOT}/Bold360AI/Bold360AI.framework
 ${PODS_ROOT}/BoldAIAccessibility/BoldAIAccessibility.framework
 ${PODS_ROOT}/BoldAIEngine/BoldAIEngine.framework
